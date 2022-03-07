@@ -1,0 +1,670 @@
+A. Guney,17,183,GK,Alanyaspor,1,57
+Marafona,33,190,GK,Alanyaspor,1,75
+S. Kirintili,35,185,GK,Alanyaspor,1,75
+A. Celebi,21,195,DEF,Alanyaspor,1,61
+K. Hayta,19,184,DEF,Alanyaspor,1,55
+G. Tzavellas,33,183,DEF,Alanyaspor,1,72
+S. Caulker,29,190,DEF,Alanyaspor,1,73
+A. Gulay,17,174,DEF,Alanyaspor,1,59
+F. Moubandje,30,180,DEF,Alanyaspor,1,71
+Juanfran,32,179,DEF,Alanyaspor,1,74
+T. Bingol,27,180,DEF,Alanyaspor,1,69
+F. Aksoy,23,189,MID,Alanyaspor,1,69
+C. Gulselam,33,192,MID,Alanyaspor,1,70
+E. Siopis,26,171,MID,Alanyaspor,1,73
+Y. Ozdemir,19,175,MID,Alanyaspor,1,59
+S. Ucan,26,182,MID,Alanyaspor,1,72
+H. Acar,26,183,MID,Alanyaspor,1,69
+E. Bekiroglu,25,185,MID,Alanyaspor,1,64
+Ü. Turker,22,172,MID,Alanyaspor,1,55
+B. Kutlu,22,183,MID,Alanyaspor,1,60
+U. Gunes,20,177,MID,Alanyaspor,1,62
+A. Soysal,17,168,MID,Alanyaspor,1,59
+F. Cakiroglu,22,174,MID,Alanyaspor,1,57
+Davidson,29,177,FW,Alanyaspor,1,74
+E. Tetah,19,170,FW,Alanyaspor,1,57
+E. Karaca,31,166,FW,Alanyaspor,1,74
+D. Kadzior,28,175,FW,Alanyaspor,1,74
+A. Bareiro,24,184,FW,Alanyaspor,1,72
+K. Babacar,27,185,FW,Alanyaspor,1,75
+M. Pektemek,32,182,FW,Alanyaspor,1,69
+M. Uzun,15,173,FW,Alanyaspor,1,54
+E. Destanoglu,19,195,GK,Besiktas,1,70
+E. Bilgin,19,188,GK,Besiktas,1,57
+U. Yuvakuran,23,192,GK,Besiktas,1,68
+Javi Montero,21,185,DEF,Besiktas,1,73
+N. Uysal,29,180,DEF,Besiktas,1,70
+Welinton,31,181,DEF,Besiktas,1,72
+D. Vida,31,184,DEF,Besiktas,1,80
+S. Saatci,17,182,DEF,Besiktas,1,59
+F. N'Sakala,30,178,DEF,Besiktas,1,70
+R. Yilmaz,19,174,DEF,Besiktas,1,67
+V. Rosier,24,175,DEF,Besiktas,1,75
+Douglas Pereira,30,171,DEF,Besiktas,1,73
+B. Ceylan,17,174,DEF,Besiktas,1,62
+Josef de Souza,31,188,MID,Besiktas,1,79
+A. Hutchinson,37,187,MID,Besiktas,1,77
+O. Ozyakup,28,180,MID,Besiktas,1,77
+D. Tokoz,24,180,MID,Besiktas,1,76
+A. Ljajic,29,182,MID,Besiktas,1,81
+E. Delibas,17,175,MID,Besiktas,1,59
+B. Mensah,26,180,MID,Besiktas,1,75
+G. N'Koudou,25,172,FW,Besiktas,1,75
+R. Ghezzal,28,182,FW,Besiktas,1,76
+A. Hasic,19,177,FW,Besiktas,1,66
+G. Tore,28,176,FW,Besiktas,1,71
+V. Aboubakar,28,184,FW,Besiktas,1,75
+C. Larin,25,186,FW,Besiktas,1,75
+C. Tosun,29,183,FW,Besiktas,1,77
+F. Muslera,34,190,GK,Galatasaray,1,83
+O. Kocuk,25,188,GK,Galatasaray,1,71
+K. Ersunar,17,184,GK,Galatasaray,1,57
+F. Ozturk,34,191,GK,Galatasaray,1,71
+R. Donk,34,192,DEF,Galatasaray,1,75
+C. Luyindama,26,191,DEF,Galatasaray,1,78
+Marcao Teixeira,24,185,DEF,Galatasaray,1,79
+V. Ozornwafor,21,194,DEF,Galatasaray,1,67
+E. Tasdemir,25,176,DEF,Galatasaray,1,71
+M. Saracchi,22,172,DEF,Galatasaray,1,76
+S. Ozbayrakli,30,171,DEF,Galatasaray,1,71
+O. Elabdellaoui,29,179,DEF,Galatasaray,1,76
+M. Linnes,29,174,DEF,Galatasaray,1,72
+D. Yedlin,27,172,DEF,Galatasaray,1,75
+B. Elmaz,17,173,MID,Galatasaray,1,58
+T. Antalyali,25,180,MID,Galatasaray,1,74
+O. Etebo,25,176,MID,Galatasaray,1,75
+Gedson,21,181,MID,Galatasaray,1,76
+H. Onyekuru,23,175,MID,Galatasaray,1,77
+O. Bayram,29,175,MID,Galatasaray,1,75
+E. Kilinc,26,174,MID,Galatasaray,1,75
+E. Akbaba,28,180,MID,Galatasaray,1,77
+A. Turan,33,175,MID,Galatasaray,1,75
+R. Babel,34,185,FW,Galatasaray,1,78
+K. Akturkoğlu,22,173,FW,Galatasaray,1,78
+S. Feghouli,31,177,FW,Galatasaray,1,81
+R. Falcao,34,177,FW,Galatasaray,1,83
+H. Dervisoglu,21,183,FW,Galatasaray,1,70
+O. Çaglayan,24,188,FW,Galatasaray,1,68
+Mostafa Mohamed,23,185,FW,Galatasaray,1,74
+M. Mohamedi,31,190,GK,Hatayspor,1,72
+Y. Boyar,22,190,GK,Hatayspor,1,57
+A. Alkan,31,186,GK,Hatayspor,1,69
+E. Kilicarslan,23,187,GK,Hatayspor,1,61
+E. Kirecci,17,181,GK,Hatayspor,1,55
+S. Ornek,31,192,DEF,Hatayspor,1,62
+J. Billong,27,191,DEF,Hatayspor,1,69
+Pablo Santos,28,188,DEF,Hatayspor,1,75
+M. Askar,18,182,DEF,Hatayspor,1,56
+Y. Abdioglu,31,181,DEF,Hatayspor,1,67
+E. Fansa,17,182,DEF,Hatayspor,1,55
+A. Katranis,22,174,DEF,Hatayspor,1,66
+Y. Kone,25,174,DEF,Hatayspor,1,77
+M. Caytemel,36,175,DEF,Hatayspor,1,68
+J. Akomadi,21,180,DEF,Hatayspor,1,56
+B. Camoglu,24,173,DEF,Hatayspor,1,59
+A. Canli,23,181,DEF,Hatayspor,1,60
+S. Popov,30,176,DEF,Hatayspor,1,74
+I. Sackey,26,190,MID,Hatayspor,1,68
+M. Arslan,19,180,MID,Hatayspor,1,56
+R. Aabid,28,178,MID,Hatayspor,1,69
+M. Mert,25,174,MID,Hatayspor,1,64
+B. Aygun,18,179,MID,Hatayspor,1,57
+Noss Traore,25,180,MID,Hatayspor,1,74
+H. Gunduz,19,174,MID,Hatayspor,1,54
+D. Akintola,24,178,FW,Hatayspor,1,67
+Ruben Ribeiro,33,175,FW,Hatayspor,1,71
+S. Ilgaz,25,177,FW,Hatayspor,1,54,70
+M. Altinoz,18,175,FW,Hatayspor,1,57
+A. Boupendza,24,180,FW,Hatayspor,1,72
+A. Ipekci,19,178,FW,Hatayspor,1,57
+A. Cinkir,18,177,FW,Hatayspor,1,56
+M. Kamara,23,174,FW,Hatayspor,1,64
+H. Akgul,18,174,FW,Hatayspor,1,55
+M. Diouf,33,185,FW,Hatayspor,1,70
+I. Sehic,32,190,GK,Konyaspor,1,72
+E. Birnican,32,188,GK,Konyaspor,1,63
+O. Oruc,20,191,GK,Konyaspor,1,61
+E. Ersu,26,194,GK,Konyaspor,1,62
+A. Demirbag,23,182,DEF,Konyaspor,1,68
+M. Anicic,31,192,DEF,Konyaspor,1,67
+A. Calik,26,184,DEF,Konyaspor,1,72
+A. Bardakci,26,190,DEF,Konyaspor,1,65
+Guilherme,30,180,DEF,Konyaspor,1,70
+A. Uludag,30,180,DEF,Konyaspor,1,66
+B. Yardimci,28,179,DEF,Konyaspor,1,68
+N. Skubic,31,178,DEF,Konyaspor,1,72
+V. Findikli,30,191,MID,Konyaspor,1,67
+M. Jevtovic,27,194,MID,Konyaspor,1,72
+O. Guctekin,21,173,MID,Konyaspor,1,67
+Hadziahmetovic,23,179,MID,Konyaspor,1,68
+I. Guven,26,172,MID,Konyaspor,1,61
+I. Diomande,28,183,MID,Konyaspor,1,70
+I. Karaboga,17,173,MID,Konyaspor,1,57
+M. Çagiran,28,181,MID,Konyaspor,1,69
+H. Biber,17,171,MID,Konyaspor,1,55
+S. Eduok,26,176,MID,Konyaspor,1,72
+F. Miya,23,176,MID,Konyaspor,1,71
+A. Rahmanovic,26,192,MID,Konyaspor,1,69
+E. Pehlivan,17,174,MID,Konyaspor,1,57
+D. Milosevic,25,177,FW,Konyaspor,1,73
+Z. Bytyqi,24,176,FW,Konyaspor,1,67
+D. Golpek,26,190,FW,Konyaspor,1,58
+L. Shengelia,25,185,FW,Konyaspor,1,70
+A. Karademir,16,172,FW,Konyaspor,1,57
+J. Sekidika,24,174,FW,Konyaspor,1,67
+S. Cikalleshi,30,185,FW,Konyaspor,1,70
+A. Kravets,31,189,FW,Konyaspor,1,71
+E. Daci,22,183,FW,Konyaspor,1,64
+A. Damlu,21,191,GK,Yeni Malatyaspor,1,57
+M. Aksit,18,184,GK,Yeni Malatyaspor,1,58
+E. Ozbir,31,187,GK,Yeni Malatyaspor,1,69
+E. Iscan,29,197,GK,Yeni Malatyaspor,1,58
+Wallace,26,191,DEF,Yeni Malatyaspor,1,75
+T. Hadebe,25,185,DEF,Yeni Malatyaspor,1,67
+S. Kaya,29,184,DEF,Yeni Malatyaspor,1,70
+E. Ndizeye,21,187,DEF,Yeni Malatyaspor,1,60
+P. Gameli,20,190,DEF,Yeni Malatyaspor,1,58
+A. Arslan,19,182,DEF,Yeni Malatyaspor,1,57
+E. Kas,29,183,DEF,Yeni Malatyaspor,1,64
+K. Hafez,24,175,DEF,Yeni Malatyaspor,1,67
+B. Cevahir,28,171,DEF,Yeni Malatyaspor,1,63
+I. Chebake,31,176,DEF,Yeni Malatyaspor,1,71
+Z. Yavru,29,178,DEF,Yeni Malatyaspor,1,68
+J. Nshimirimana,19,178,MID,Yeni Malatyaspor,1,58
+S. Mallan,24,178,MID,Yeni Malatyaspor,1,70
+A. Acquah,28,179,MID,Yeni Malatyaspor,1,73
+F. Zuqui,29,170,MID,Yeni Malatyaspor,1,74
+A. Ildiz,24,181,MID,Yeni Malatyaspor,1,67
+M. Eskihellac,23,175,MID,Yeni Malatyaspor,1,62
+D. Emeksiz,20,176,MID,Yeni Malatyaspor,1,59
+B. Yaz,17,170,MID,Yeni Malatyaspor,1,56
+M. Fofana,29,178,FW,Yeni Malatyaspor,1,70
+H. Osman,18,173,FW,Yeni Malatyaspor,1,57
+A. Malle,22,177,FW,Yeni Malatyaspor,1,66
+O. Sahan,33,179,FW,Yeni Malatyaspor,1,71
+J. Topalli,22,188,FW,Yeni Malatyaspor,1,63
+U. Bulut,37,184,FW,Yeni Malatyaspor,1,68
+B. Tetteh,23,193,FW,Yeni Malatyaspor,1,71
+K. Kanatsizkus,23,190,FW,Yeni Malatyaspor,1,67
+A. Buyuk,33,167,FW,Yeni Malatyaspor,1,74
+M. Yildirim,30,190,GK,Sivasspor,1,66
+M. Samassa,30,198,GK,Sivasspor,1,75
+A. Vural,30,187,GK,Sivasspor,1,67
+M. Tuncer,20,185,GK,Sivasspor,1,56
+A. Appindangoye,28,185,DEF,Sivasspor,1,71
+S. Camara,28,190,DEF,Sivasspor,1,67
+C. Osmanpasa,32,182,DEF,Sivasspor,1,70
+U. Ciftci,28,179,DEF,Sivasspor,1,71
+M. Balkaya,19,173,DEF,Sivasspor,1,53
+Z. Erdal,32,182,DEF,Sivasspor,1,70
+A. Okumus,25,175,DEF,Sivasspor,1,64
+A. Oguz,27,176,DEF,Sivasspor,1,69
+I. Cofie,29,184,MID,Sivasspor,1,69
+Claudemir,32,185,MID,Sivasspor,1,72
+R. Yalcin,26,183,MID,Sivasspor,1,69
+K. Kesgin,20,177,MID,Sivasspor,1,60
+S. Rybalka,30,176,MID,Sivasspor,1,71
+H. Arslan,32,186,MID,Sivasspor,1,74
+F. Fajr,32,178,MID,Sivasspor,1,77
+S. Kılıçkaya,18,173,MID,Sivasspor,1,57
+S. Gundak,19,174,MID,Sivasspor,1,53
+M. Gradel,33,177,FW,Sivasspor,1,79
+C. Ninga,27,186,FW,Sivasspor,1,75
+E. Yesilyurt,27,174,FW,Sivasspor,1,69
+T. Boyd,26,183,FW,Sivasspor,1,71
+A. Kone,37,181,FW,Sivasspor,1,70
+M. Yatabare,34,186,FW,Sivasspor,1,72
+Jorge Felix,29,175,FW,Sivasspor,1,71
+O. Kayode,27,176,FW,Sivasspor,1,72
+M.Samatta,28,179,FW,Fenerbahce,1,77
+P.Cissé,35,183,FW,Fenerbahce,1,76
+S.Gumus,26,179,FW,Fenerbahce,1,72
+E.Valencia,31,174,FW,Fenerbahce,1,75
+F.Kadioglu,21,174,FW,Fenerbahce,1,72
+D.Perotti,32,179,FW,Fenerbahce,1,80
+M.Ozil,32,180,MID,Fenerbahce,1,83
+O.Beyaz,15,167,MID,Fenerbahce,1,52
+D.Pelkas,27,175,MID,Fenerbahce,1,74
+M.Yandas,26,174,MID,Fenerbahce,1,73
+B.Osayi-Samuel,23,175,MID,Fenerbahce,1,71
+F.Sanliturk,17,176,MID,Fenerbahce,1,57
+I.Kahveci,25,176,MID,Fenerbahce,1,78
+O.Tufan,25,179,MID,Fenerbahce,1,79
+J.Sosa,35,179,MID,Fenerbahce,1,81
+Luiz Gustavo,33,187,MID,Fenerbahce,1,80
+G.Gonul,35,175,DEF,Fenerbahce,1,75
+U.Yildiz,18,178,DEF,Fenerbahce,1,58
+N.Sangaré,26,182,DEF,Fenerbahce,1,73
+C.Erkin,32,181,DEF,Fenerbahce,1,76
+F.Novák,30,184,DEF,Fenerbahce,1,72
+A.Szalai,22,192,DEF,Fenerbahce,1,76
+M.Tisserand,27,188,DEF,Fenerbahce,1,76
+S.Ciftpinar,27,183,DEF,Fenerbahce,1,71
+S.Aziz,30,183,DEF,Fenerbahce,1,76
+M.Lemos,25,187,DEF,Fenerbahce,1,72
+A.Bayindir,22,198,GK,Fenerbahce,1,78
+H.Tekin,31,183,GK,Fenerbahce,1,73
+O.Ozdogan,22,198,GK,Fenerbahce,1,59
+O.Cetin,17,186,GK,Fenerbahce,1,56
+G.Bakirbas,24,196,GK,BB Erzurumspor,1,65
+J.Szumski,28,194,GK,BB Erzurumspor,1,67
+K.Erdogan,32,188,GK,BB Erzurumspor,1,60
+B.Unsal,23,185,GK,BB Erzurumspor,1,55
+H.Hatipoglu,31,185,DEF,BB Erzurumspor,1,65
+R.Derin,19,183,DEF,BB Erzurumspor,1,57
+G.Kardes,23,188,DEF,BB Erzurumspor,1,58
+A.Teikeu,30,190,DEF,BB Erzurumspor,1,70
+H.Baydan,18,185,DEF,BB Erzurumspor,1,59
+F.Sasi,18,185,DEF,BB Erzurumspor,1,53
+Z.Bergdich,31,178,DEF,BB Erzurumspor,1,69
+L.Schwechlen,31,182,DEF,BB Erzurumspor,1,67
+B.Butko,29,180,DEF,BB Erzurumspor,1,72
+M.Ucar,29,169,DEF,BB Erzurumspor,1,65
+C.Alkilic,33,177,DEF,BB Erzurumspor,1,64
+J.Omolo,31,179,MID,BB Erzurumspor,1,68
+P.Boumal,27,177,MID,BB Erzurumspor,1,72
+R.Cagiran,23,185,MID,BB Erzurumspor,1,67
+M.Donald,32,184,MID,BB Erzurumspor,1,72
+Y.Ackah,21,169,MID,BB Erzurumspor,1,69
+E.Bassan,28,177,MID,BB Erzurumspor,1,71
+G.Obertan,31,186,MID,BB Erzurumspor,1,70
+Y.Koc,19,174,MID,BB Erzurumspor,1,60
+O.Sert,19,176,MID,BB Erzurumspor,1,57
+A.Novikovas,30,176,FW,BB Erzurumspor,1,71
+E.Rashani,27,181,FW,BB Erzurumspor,1,67
+B.Darri,26,177,FW,BB Erzurumspor,1,67
+G.Yilmaz,17,180,FW,BB Erzurumspor,1,57
+O.Karakullukcu,29,188,FW,BB Erzurumspor,1,59
+Ricardo Gomes,29,188,FW,BB Erzurumspor,1,72
+A.Ozcimen,18,185,GK,Goztepe,1,57
+B.Megyeri,30,18,GK,Goztepe,1,68
+E.Gabel,17,180,GK,Goztepe,1,55
+B.Dinc,17,193,GK,Goztepe,1,54
+I.Egribayat,22,193,GK,Goztepe,1,68
+M.Mihojević,24,185,DEF,Goztepe,1,68
+A.Ozturk,27,186,DEF,Goztepe,1,69
+A.Nukan,27,196,DEF,Goztepe,1,68
+M.Altay,17,175,DEF,Goztepe,1,55
+B.Emir,32,178,DEF,Goztepe,1,68
+D.Bureković,25,178,DEF,Goztepe,1,66
+K.Alici,23,183,DEF,Goztepe,1,64
+L.Gassama,31,181,DEF,Goztepe,1,71
+E.Kömür,18,176,DEF,Goztepe,1,56
+M.Paluli,26,175,DEF,Goztepe,1,63
+K.Sonmez,26,183,MID,Goztepe,1,67
+T.Topaloglu,19,177,MID,Goztepe,1,57
+A.Esiti,26,189,MID,Goztepe,1,73
+S.Aydogdu,29,180,MID,Goztepe,1,73
+Y.Kayan,21,180,MID,Goztepe,1,64
+O.Nwobodo,24,179,MID,Goztepe,1,67
+E.Binici,19,176,MID,Goztepe,1,60
+H.Akbunar,27,167,MID,Goztepe,1,71
+Y.Basravi,20,173,MID,Goztepe,1,57
+M.Yildirim,20,177,MID,Goztepe,1,57
+B.Kirdaroglu,20,178,FW,Goztepe,1,60
+B.Simsek,25,178,FW,Goztepe,1,67
+T.Oniz,18,175,FW,Goztepe,1,55
+F.Diabaté,25,175,FW,Goztepe,1,73
+S.Napoleoni,34,178,FW,Goztepe,1,71
+C.Ndiaye,24,190,FW,Goztepe,1,69
+A.Jahović,33,190,FW,Goztepe,1,74
+B. Ideye,32,181,FW,Goztepe,1,63
+A.Maglica,29,181,FW,Kayserispor,1,69
+D.Alibec,29,187,FW,Kayserispor,1,71
+K.Luckassen,27,184,FW,Kayserispor,1,68
+O.Acar,18,170,FW,Kayserispor,1,55
+O.Uzun,20,185,FW,Kayserispor,1,60
+W.Kanga,22,183,FW,Kayserispor,1,70
+M.Celik,30,178,FW,Kayserispor,1,68
+M.Arikan,15,167,FW,Kayserispor,1,54
+M.Okutan,24,177,FW,Kayserispor,1,63
+I.Parlak,33,181,FW,Kayserispor,1,68
+N.Korkmaz,18,172,FW,Kayserispor,1,61
+Pedro Henrique,30,179,FW,Kayserispor,1,72
+D. Avramovski,25,184,MID,Kayserispor,1,68
+B.Sabovic,67,174,MID,Kayserispor,1,67
+T.Sariarslan,16,165,MID,Kayserispor,1,54
+E.Demir,16,175,MID,Kayserispor,1,63
+E.Ozbek,17,168,MID,Kayserispor,1,54
+A.Lennon,33,165,MID,Kayserispor,1,75
+Z.Kvržići,32,180,MID,Kayserispor,1,68
+H.Manzala,26,177,MID,Kayserispor,1,70
+A.Kartal,19,177,MID,Kayserispor,1,55
+A.Malatyali,17,174,MID,Kayserispor,1,55
+Manuel Fernandes,34,176,MID,Kayserispor,1,80
+Gustavo Campanharo,28,178,MID,Kayserispor,1,73
+K.Muhar,24,180,MID,Kayserispor,1,61
+J.Attamah,26,180,MID,Kayserispor,1,71
+R. Civelek,24,172,DEF,Kayserispor,1,66
+Miguel Lopes,34,183,DEF,Kayserispor,1,73
+B.Dogan,19,171,DEF,Kayserispor,1,57
+Y.Subasi,24,180,DEF,Kayserispor,1,65
+A.Behich,30,172,DEF,Kayserispor,1,71
+C.Săpunaru,36,187,DEF,Kayserispor,1,70
+U.Demirok,32,185,DEF,Kayserispor,1,67
+D.Kolovetsios,29,183,DEF,Kayserispor,1,66
+N.Paz,27,191,DEF,Kayserispor,1,70
+S.Lung,31,189,GK,Kayserispor,1,71
+A.Tasdan,17,182,GK,Kayserispor,1,55
+D.Alemdar,18,181,GK,Kayserispor,1,56
+I.Cipe,25,197,GK,Kayserispor,1,63
+U.Cakir,24,188,GK,Trabzonspor,1,77
+E.Kardesler,26,184,GK,Trabzonspor,1,68
+A.Akbulut,19,195,GK,Trabzonspor,1,62
+A.Ibrahimagaoglu,18,182,GK,Trabzonspor,1,56
+H.Aydin,17,192,GK,Trabzonspor,1,56
+K.Moradaoglu,17,193,GK,Trabzonspor,1,57
+H.Turkmen,22,183,DEF,Trabzonspor,1,74
+M.Hosseini,24,183,DEF,Trabzonspor,1,73
+Vitor Hugo,29,187,DEF,Trabzonspor,1,77
+Edgar Ié,26,178,DEF,Trabzonspor,1,75
+A.Gunduz,19,189,DEF,Trabzonspor,1,60
+A.Kaplan,17,189,DEF,Trabzonspor,1,59
+Marlon Xavier,23,173,DEF,Trabzonspor,1,72
+A.Trondsen,25,183,DEF,Trabzonspor,1,70
+K.Çorekci,28,183,DEF,Trabzonspor,1,70
+F.Genc,20,180,DEF,Trabzonspor,1,59
+S.Asan,21,170,DEF,Trabzonspor,1,69
+Flavio,24,178,MID,Trabzonspor,1,59
+H.Yesil,18,181,MID,Trabzonspor,1,59
+B.Ozdemir,22,182,MID,Trabzonspor,1,70
+L.Baker,25,182,MID,Trabzonspor,1,72
+A.Parmak,26,176,MID,Trabzonspor,1,74
+A.Omur,21,168,MID,Trabzonspor,1,76
+Y.Malli,28,179,MID,Trabzonspor,1,74
+S.Cebeci,17,175,MID,Trabzonspor,1,60
+H.Yesil,18,181,MID,Trabzonspor,1,59
+A.Nwakaeme,31,185,FW,Trabzonspor,1,77
+Y.Sari,22,168,FW,Trabzonspor,1,70
+S.Kinali,21,180,FW,Trabzonspor,1,63
+A.Bakasetas,27,181,FW,Trabzonspor,1,75
+C.Ekuban,26,182,FW,Trabzonspor,1,73
+Djaniny,29,190,FW,Trabzonspor,1,78
+B.Afobe,27,183,FW,Trabzonspor,1,71
+F.Koc,17,178,FW,Antalyaspor,1,55
+D.Orgill,30,183,FW,Antalyaspor,1,69
+L.Podolski,35,180,FW,Antalyaspor,1,75
+G.Bayrakdar,19,181,FW,Antalyaspor,1,60
+O.Imeri,21,175,FW,Antalyaspor,1,62
+Amilton,31,172,FW,Antalyaspor,1,69
+S.Sam,32,174,FW,Antalyaspor,1,71
+D.Sinik,21,180,FW,Antalyaspor,1,69
+S.Poyraz,16,171,FW,Antalyaspor,1,54
+S.Gurler,29,173,FW,Antalyaspor,1,74
+J.Drole,23,185,FW,Antalyaspor,1,67
+Fredy,30,170,MID,Antalyaspor,1,70
+E.Ucar,19,175,MID,Antalyaspor,1,61
+Y.Guner,18,170,MID,Antalyaspor,1,59
+H.Ozmert,35,178,MID,Antalyaspor,1,70
+M.Erdilman,16,171,MID,Antalyaspor,1,54
+U.Akyol,23,180,MID,Antalyaspor,1,66
+N.Sahin,32,180,MID,Antalyaspor,1,76
+M.Ekelik,16,164,MID,Antalyaspor,1,53
+B.Balci,20,172,MID,Antalyaspor,1,68
+M.Yilmaz,21,174,DEF,Antalyaspor,1,63
+A.Iyican,21,175,DEF,Antalyaspor,1,63
+F.Kudryashov,33,183,DEF,Antalyaspor,1,75
+Eren,29,179,DEF,Antalyaspor,1,68
+V.Sari,32,184,DEF,Antalyaspor,1,70
+A.Ozden,18,172,DEF,Antalyaspor,1,57
+B.Ozturk,25,185,DEF,Antalyaspor,1,68
+Naldo,32,188,DEF,Antalyaspor,1,76
+E.Gulum,33,186,DEF,Antalyaspor,1,66
+F.Kaplan,31,190,GK,Antalyaspor,1,68
+E.Sahin,20,170,GK,Antalyaspor,1,57
+R.Boffin,33,196,GK,Antalyaspor,1,70
+D.Ozkan,20,186,GK,Antalyaspor,1,58
+E.Viviano,35,195,GK,Fatih Karagumruk,1,79
+Y.Aygun,24,185,GK,Fatih Karagumruk,1,61
+Y.Genc,19,198,GK,Fatih Karagumruk,1,55
+M.Kablan,20,192,GK,Fatih Karagumruk,1,57
+A.Ozer,27,189,GK,Fatih Karagumruk,1,66
+E.Roco,28,192,DEF,Fatih Karagumruk,1,72
+F.Kurucuk,22,192,DEF,Fatih Karagumruk,1,64
+G.Campi,29,193,DEF,Fatih Karagumruk,1,73
+E.Zukanović,33,188,DEF,Fatih Karagumruk,1,73
+A.Erdem,32,174,DEF,Fatih Karagumruk,1,66
+J.Balkovec,26,185,DEF,Fatih Karagumruk,1,74
+K.Altinay,29,186,DEF,Fatih Karagumruk,1,65
+M.Sarigul,19,183,DEF,Fatih Karagumruk,1,58
+V.Hedenstad,29,178,DEF,Fatih Karagumruk,1,68
+L.Biglia,34,178,MID,Fatih Karagumruk,1,68
+Y.Erdogan,20,173,MID,Fatih Karagumruk,1,55
+B.Kadioglu,19,185,MID,Fatih Karagumruk,1,57
+E.Tatli,18,175,MID,Fatih Karagumruk,1,56
+B.Ozturk,18,174,MID,Fatih Karagumruk,1,54
+O.Ersoy,17,173,MID,Fatih Karagumruk,1,55
+L.Castro,31,182,MID,Fatih Karagumruk,1,76
+A.Bertolacci,29,179,MID,Fatih Karagumruk,1,75
+Y.Salibur,29,177,MID,Fatih Karagumruk,1,71
+M.Pehlivan,20,171,MID,Fatih Karagumruk,1,60
+A.Aktas,21,177,MID,Fatih Karagumruk,1,62
+F.Borini,29,180,FW,Fatih Karagumruk,1,76
+A.Aslan,18,173,FW,Fatih Karagumruk,1,56
+S.Ahmetoglu,18,184,FW,Fatih Karagumruk,1,58
+A.Ndao,24,176,FW,Fatih Karagumruk,1,68
+J.Durmaz,31,180,FW,Fatih Karagumruk,1,75
+J.Lens,33,178,FW,Fatih Karagumruk,1,74
+A.Sobiech,30,185,FW,Fatih Karagumruk,1,71
+M.Erdinc,33,181,FW,Fatih Karagumruk,1,72
+V.Arveladze,22,184,FW,Fatih Karagumruk,1,64
+K.Ademi,24,195,FW,Fatih Karagumruk,1,72
+K.Nordfeldt,31,190,GK,Genclerbirligi,1,72
+E.Kavasoglu,16,184,GK,Genclerbirligi,1,54
+Y.Davus,25,193,GK,Genclerbirligi,1,55
+A.Gokce,17,185,GK,Genclerbirligi,1,58
+U.Adiyaman,23,194,GK,Genclerbirligi,1,59
+A.Kizildag,22,187,DEF,Genclerbirligi,1,63
+Diego Ângelo,34,192,DEF,Genclerbirligi,1,72
+M.Akbas,30,188,DEF,Genclerbirligi,1,66
+M.Mert,21,181,DEF,Genclerbirligi,1,58
+Z.Touré,31,183,DEF,Genclerbirligi,1,70
+B.Ucan,18,182,DEF,Genclerbirligi,1,57
+E.Ortakaya,16,180,DEF,Genclerbirligi,1,55
+A.Sahindere,17,184,DEF,Genclerbirligi,1,56
+H.Pehlivan,27,183,DEF,Genclerbirligi,1,64
+P.Polomat,27,183,DEF,Genclerbirligi,1,70
+M.Johansson,28,171,DEF,Genclerbirligi,1,71
+O.Artan,21,172,DEF,Genclerbirligi,1,56
+S.Dikmen,27,179,MID,Genclerbirligi,1,64
+R.Piris Da Motta,26,178,MID,Genclerbirligi,1,76
+M.Seyhan,24,180,MID,Genclerbirligi,1,59
+M.Kabasakal,16,176,MID,Genclerbirligi,1,55
+M.Yildirim,33,171,MID,Genclerbirligi,1,68
+D.Furman,28,181,MID,Genclerbirligi,1,71
+H.Birken,18,181,MID,Genclerbirligi,1,57
+S.Kahya,18,178,MID,Genclerbirligi,1,56
+R.Berisbek,21,171,MID,Genclerbirligi,1,64
+Candeias,32,177,MID,Genclerbirligi,1,72
+L.Mugni,28,182,MID,Genclerbirligi,1,69
+S.Yilmaz,30,183,FW,Genclerbirligi,1,67
+S.Spiridonović,27,172,FW,Genclerbirligi,1,69
+F.Ayité,32,175,FW,Genclerbirligi,1,71
+M.Cecenoglu,26,181,FW,Genclerbirligi,1,61
+K.Ozkan,16,170,FW,Genclerbirligi,1,54
+B.Stancu,33,183,FW,Genclerbirligi,1,72
+G.Sio,31,180,FW,Genclerbirligi,1,73
+I.Karakas,21,187,FW,Genclerbirligi,1,58
+S.Altiparmak,19,185,FW,Genclerbirligi,1,59
+Sandro Lima,30,186,FW,Genclerbirligi,1,74
+R.Köse,31,193,GK,Kasimpasa,1,77
+O. Ozcan,19,164,FW,Kasimpasa,1,55
+I. Thelin,28,189,FW,Kasimpasa,1,73
+A. Hodžić,26,181,FW,Kasimpasa,1,72
+F. Kulekci,19,186,FW,Kasimpasa,1,56
+G. Gohou,32,184,FW,Kasimpasa,1,67
+F. Koita,30,186,FW,Kasimpasa,1,70
+Y. Dulger,25,178,FW,Kasimpasa,1,60
+G. Koomson,26,180,FW,Kasimpasa,1,67
+K. Varga,24,178,FW,Kasimpasa,1,67
+A. Koc,25,175,FW,Kasimpasa,1,63
+H. Hajradinović,26,178,MID,Kasimpasa,1,73
+Y. Erdogan,28,171,MID,Kasimpasa,1,69
+H. Yeşilyurt,20,177,MID,Kasimpasa,1,57
+A. Kara,27,185,MID,Kasimpasa,1,73
+D. Drinkwater,30,178,MID,Kasimpasa,1,75
+K. Bistrović,22,183,MID,Kasimpasa,1,74
+L. Sadiku,29,181,MID,Kasimpasa,1,69
+F. Hadërgjonaj,26,182,DEF,Kasimpasa,1,72
+D. Haspolat,20,180,DEF,Kasimpasa,1,63
+M. Yildirim,24,175,DEF,Kasimpasa,1,61
+F. Yasa,17,173,DEF,Kasimpasa,1,58
+C. Kurukalip,18,175,DEF,Kasimpasa,1,59
+E. Elmali,20,180,DEF,Kasimpasa,1,57
+O. Haddadi,28,184,DEF,Kasimpasa,1,74
+B. Cetin,20,183,DEF,Kasimpasa,1,60
+D. Luckassen,25,186,DEF,Kasimpasa,1,74
+T. Břečka,26,185,DEF,Kasimpasa,1,67
+J. Jeanvier,28,185,DEF,Kasimpasa,1,73
+D. Tošić,35,185,DEF,Kasimpasa,1,75
+T. Serbest,26,184,DEF,Kasimpasa,1,69
+E. Taskiran,31,191,DEF,Kasimpasa,1,65
+E. Canpolat,19,194,DEF,Kasimpasa,1,60
+R. Kose,32,193,DEF,Kasimpasa,1,70
+K.Celikay,33,194,GK,Ankaragucu,1,83
+R.Fried,27,188,GK,Ankaragucu,1,81
+K.Cinkaya,16,180,GK,Ankaragucu,1,71
+M.Topuz,19,184,GK,Ankaragucu,1,77
+F.Beklevic,21,181,GK,Ankaragucu,1,75
+M.Pazdan,33,181,DEF,Ankaragucu,1,81
+E.Dikmen,23,192,DEF,Ankaragucu,1,75
+A.Kulusic,34,190,DEF,Ankaragucu,1,84
+A.Celik,23,190,DEF,Ankaragucu,1,73
+A.Babacan,23,185,DEF,Ankaragucu,1,70
+Z.Sarlija,24,189,DEF,Ankaragucu,1,79
+Y.Goktas,16,180,DEF,Ankaragucu,1,67
+T.Pinto,32,177,DEF,Ankaragucu,1,60
+A.Dikmen,18,170,DEF,Ankaragucu,1,75
+A.Turan,28,176,DEF,Ankaragucu,1,70
+A.Guneren,20,181,DEF,Ankaragucu,1,67
+S.Kitsiou,27,176,DEF,Ankaragucu,1,70
+A.Cankaya,22,180,MID,Ankaragucu,1,73
+A.Diousse,23,175,MID,Ankaragucu,1,71
+S.Cetin,20,174,MID,Ankaragucu,1,61
+M.Stanojevic,27,187,MID,Ankaragucu,1,82
+M.Kurt,20,183,MID,Ankaragucu,1,66
+D.Lukasik,29,179,MID,Ankaragucu,1,75
+I.Voca,23,181,MID,Ankaragucu,1,73
+E.Aygoren,20,177,MID,Ankaragucu,1,62
+I.Akdag,29,179,MID,Ankaragucu,1,61
+A.Potuk,29,177,MID,Ankaragucu,1,62
+M.Akin,18,170,MID,Ankaragucu,1,60
+B.Gurbuz,17,166,FW,Ankaragucu,1,60
+J.Paintsil,22,169,FW,Ankaragucu,1,64
+E.Cekici,24,178,FW,Ankaragucu,1,60
+O.Cinar,24,174,FW,Ankaragucu,1,62
+S.Lobzhanidze,26,175,FW,Ankaragucu,1,63
+Geraldo,29,168,FW,Ankaragucu,1,61
+T.Borven,29,188,FW,Ankaragucu,1,74
+E.Ayyildiz,20,190,FW,Ankaragucu,1,66
+A.Badji,23,188,FW,Ankaragucu,1,85
+M.Karabay,21,177,FW,Ankaragucu,1,61
+S.Imdat,19,184,FW,Ankaragucu,1,71
+E.Gural,31,187,FW,Ankaragucu,1,71
+H.Altintas,26,192,GK,Denizlispor,1,80
+A.Yalcin,19,187,GK,Denizlispor,1,78
+C.Gonen,32,189,GK,Denizlispor,1,82
+E.Bag,18,184,GK,Denizlispor,1,75
+C.Pantilimon,33,203,GK,Denizlispor,1,89
+A.Sunger,20,188,GK,Denizlispor,1,77
+M.Ozkal,21,182,DEF,Denizlispor,1,70
+O.Yilmaz,27,190,DEF,Denizlispor,1,78
+M.Yumlu,33,191,DEF,Denizlispor,1,83
+G.Can,20,186,DEF,Denizlispor,1,74
+E.Yildirim,18,190,DEF,Denizlispor,1,66
+B.Gumustas,19,181,DEF,Denizlispor,1,66
+S.Aytac,29,187,DEF,Denizlispor,1,75
+A.Ben Mohamed,26,175,DEF,Denizlispor,1,65
+O.Cek,29,173,DEF,Denizlispor,1,63
+Tiago Lopez,31,178,DEF,Denizlispor,1,70
+O.Ozdemir,22,177,DEF,Denizlispor,1,70
+E.Kascioglu,19,172,DEF,Denizlispor,1,63
+Fabiano,29,188,DEF,Denizlispor,1,83
+K.Aktas,25,182,MID,Denizlispor,1,69
+F.Erdogan,19,186,MID,Denizlispor,1,63
+M.Bakalorz,31,180,MID,Denizlispor,1,76
+R.Murawski,26,173,MID,Denizlispor,1,66
+A.Aksungur,20,177,MID,Denizlispor,1,63
+H.Uslu,18,174,MID,Denizlispor,1,63
+M.Diskerud,30,183,MID,Denizlispor,1,71
+M.Kiryolcu,17,173,MID,Denizlispor,1,61
+R.Niyaz,25,165,MID,Denizlispor,1,63
+A.Oner,16,174,FW,Denizlispor,1,60
+H.Ayaroglu,25,172,FW,Denizlispor,1,60
+H.Sacko,26,183,FW,Denizlispor,1,71
+M.Dossevi,32,172,FW,Denizlispor,1,67
+Ahmed Yasin,29,183,FW,Denizlispor,1,75
+M.Ulaman,17,176,FW,Denizlispor,1,61
+H.Rodallega,35,181,FW,Denizlispor,1,71
+M.Mesanovic,30,177,FW,Denizlispor,1,73
+V.Tusha,18,174,FW,Denizlispor,1,61
+A.Kol,19,175,FW,Denizlispor,1,62
+G.Guvenc,29,188,GK,Gaziantep FK,1,81
+C.Akbaba,25,187,GK,Gaziantep FK,1,79
+M.Bozan,20,183,GK,Gaziantep FK,1,79
+P.Djilobodji,32,193,DEF,Gaziantep FK,1,82
+U.Zengin,23,185,DEF,Gaziantep FK,1,75
+A.Tosca,28,181,DEF,Gaziantep FK,1,73
+E.Ersoy,23,187,DEF,Gaziantep FK,1,82
+G.Okan,17,182,DEF,Gaziantep FK,1,66
+Roderick Miranda,29,193,DEF,Gaziantep FK,1,88
+J.Kana-Biyik,31,184,DEF,Gaziantep FK,1,83
+Junior Maranhao,34,176,DEF,Gaziantep FK,1,68
+P.Olkowski,30,184,DEF,Gaziantep FK,1,70
+O.Ceylan,30,174,DEF,Gaziantep FK,1,69
+K.Dogan,17,174,DEF,Gaziantep FK,1,60
+Jefferson,26,181,MID,Gaziantep FK,1,74
+B.Golgeli,17,178,MID,Gaziantep FK,1,60
+A.Tetteh,30,188,MID,Gaziantep FK,1,82
+A.Vetrih,30,181,MID,Gaziantep FK,1,70
+Z.Kozuli,27,180,MID,Gaziantep FK,1,67
+O.Karaoglu,19,177,MID,Gaziantep FK,1,71
+Andre Sousa,30,181,MID,Gaziantep FK,1,72
+Osama Rashid,28,178,MID,Gaziantep FK,1,69
+G.Vural,32,177,MID,Gaziantep FK,1,60
+A.Maxim,30,177,MID,Gaziantep FK,1,60
+F.Soyalp,25,184,MID,Gaziantep FK,1,70
+B.Basakcioglu,25,178,FW,Gaziantep FK,1,71
+M.Cihan,20,171,FW,Gaziantep FK,1,61
+K.Mirallas,33,182,FW,Gaziantep FK,1,72
+C.Sahin,26,179,FW,Gaziantep FK,1,62
+K.Ozer,33,170,FW,Gaziantep FK,1,63
+M.Demir,28,180,FW,Gaziantep FK,1,70
+N.Dicko,28,173,FW,Gaziantep FK,1,82
+V.Babacan,32,192,GK,Istanbul Basaksehir,1,80
+A.Kivanc,22,189,GK,Istanbul Basaksehir,1,80
+K.Koral,16,184,GK,Istanbul Basaksehir,1,75
+M.Yucel,18,192,GK,Istanbul Basaksehir,1,79
+M.Gunok,31,196,GK,Istanbul Basaksehir,1,84
+D.Dilmen,15,185,GK,Istanbul Basaksehir,1,77
+Leo Duarte,24,183,DEF,Istanbul Basaksehir,1,80
+A.Epureanu,34,189,DEF,Istanbul Basaksehir,1,85
+R.Tagir,17,182,DEF,Istanbul Basaksehir,1,73
+Ponck,25,183,DEF,Istanbul Basaksehir,1,83
+M.Yazici,18,185,DEF,Istanbul Basaksehir,1,67
+H.Kaldirim,31,183,DEF,Istanbul Basaksehir,1,69
+B.Bolingoli-Mbombo,25,181,DEF,Istanbul Basaksehir,1,69
+C.Sertel,20,186,DEF,Istanbul Basaksehir,1,72
+Rafael,30,172,DEF,Istanbul Basaksehir,1,73
+M.Sarikaya,18,182,DEF,Istanbul Basaksehir,1,64
+U.Ucar,33,180,DEF,Istanbul Basaksehir,1,68
+Junior Caicara,31,173,DEF,Istanbul Basaksehir,1,61
+M.Topal,34,187,MID,Istanbul Basaksehir,1,75
+M.Tekdemir,32,180,MID,Istanbul Basaksehir,1,70
+A.Okechukwu,23,170,MID,Istanbul Basaksehir,1,67
+T.Cigerci,28,185,MID,Istanbul Basaksehir,1,77
+Y.Ndayishimiye,22,180,MID,Istanbul Basaksehir,1,83
+E.Senocak,18,172,MID,Istanbul Basaksehir,1,60
+E.Visca,30,172,MID,Istanbul Basaksehir,1,61
+D.Turuc,27,177,MID,Istanbul Basaksehir,1,63
+D.Aleksic,29,180,MID,Istanbul Basaksehir,1,68
+B.Ozcan,22,180,MID,Istanbul Basaksehir,1,70
+Giuliano,30,172,MID,Istanbul Basaksehir,1,73
+M.Karaal,17,175,MID,Istanbul Basaksehir,1,62
+J.Fernandes,32,182,FW,Istanbul Basaksehir,1,72
+N.Chadli,31,187,FW,Istanbul Basaksehir,1,73
+F.Gulbrandsen,28,175,FW,Istanbul Basaksehir,1,73
+S.Uresin,18,173,FW,Istanbul Basaksehir,1,63
+M.Demir,22,170,FW,Istanbul Basaksehir,1,60
+O.Sahiner,28,175,FW,Istanbul Basaksehir,1,62
+E.Crivelli,25,184,FW,Istanbul Basaksehir,1,83
